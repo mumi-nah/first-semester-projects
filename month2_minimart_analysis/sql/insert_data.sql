@@ -1,10 +1,10 @@
 -- SQL script to insert sample data
 INSERT INTO customers (name, email, join_date) VALUES
-('Aisha Bello','aisha@example.com','2025-01-10'),
-('John Doe','john@example.com','2025-02-05'),
-('Mary Okafor','mary@example.com','2025-03-12'),
-('Chike Nwosu','chike@example.com','2025-01-20'),
-('Sara Ahmed','sara@example.com','2025-04-01');
+('Aisha Bello','aisha@bello.com','2025-01-10'),
+('John Doe','johndoe29@.com','2025-02-05'),
+('Mary Okafor','maryokafor@.com','2025-03-12'),
+('Chike Nwosu','chikenwosu@gmail.com','2025-01-20'),
+('Sara Ahmed','saraahmed.com','2025-04-01');
 
 INSERT INTO products (product_name, category, price) VALUES
 ('Mineral Water','Drinks',0.50),
